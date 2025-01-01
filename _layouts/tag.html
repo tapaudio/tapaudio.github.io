@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	{% include header.html %}
+	<body>
+		{% include header_nav.html %}
+		<div class="wrapper main">
+			<div id="content" class="index">
+          <div id="main">
+            <div class="tags-items">
+                {% assign tags = site.tags %}
+                {% for tag in tags %}
+                  <span class="tags-items-list">
+                    <a href="#{{ tag[0] | slugify }}"
+                        style="font-size: {{ tag | last | size  |  times: 6 | plus: 95  }}%">
+                            {{ tag[0] | replace:'-', ' ' }} <span>({{ tag | last | size }})</span>
+                            <!-- {{ tag[0] | replace:'-', ' ' }} <span>({{ tag | last | size }})</span> -->
+                    </a>
+                </span>
+                {% endfor %}
+  
+                <div class="tags-items-section">
+                  <br>
+                  {% for tag in tags %}
+						      <h4 id="{{ tag[0] | slugify }}" onclick="javascript: scroll(0,0);"> <a href="javascript: scroll(0, 0)">{{ tag[0] }}</a></h4>
+                  <hr>
+                  <ul class="posts">
+                    {% for post in tag[1] %}
+                    <li>
+                        <a  href="{{ site.baseurl }}{{ post.url }}">
+                            {{ post.title }}
+                        </a>
+                        <!-- <span class="date" cate="{{ post.categories }}">{{ post.date | date:"%Y-%m-%d" }}</span>  -->
+                    </li>
+                    {% endfor %}
+                  </ul>
+                  {% endfor %}
+                </div>
+            </div> 
+          </div>
+			</div>
+			{% include footer.html %}
+		</div>
+		<div style="height:1080px;"></div>
+	</body>
+</html>
+
+
+

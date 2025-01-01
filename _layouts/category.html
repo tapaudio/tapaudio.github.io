@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	{% include header.html %}
+	<body>
+		{% include header_nav.html %}
+		<div class="wrapper main">
+			<div id="content" class="index">
+				<div id="main">
+
+					<div class="category-items">
+						{% assign categories = site.categories %}
+						{% for category in categories %}
+						  <span class="category-items-list">
+							<a href="#{{ category[0] | slugify }}">
+									{{ category[0] | replace:'-', ' ' }} <span>({{ category | last | size }}) </span>
+							</a>
+						</span>
+						{% endfor %}
+						
+						<div class="category-items-section">
+						  <br>
+						  {% for category in categories %}
+						  <h4 id="{{ category[0] | slugify }}" onclick="javascript: scroll(0,0);"> <a href="javascript: scroll(0, 0)">{{ category[0] }}</a></h4>
+						  <hr>
+						  <ul class="posts">
+							{% for post in category[1] %}
+							<li>
+								<a  href="{{ site.baseurl }}{{ post.url }}">
+									{{ post.title }}
+								</a>
+							</li>
+							{% endfor %}
+						  </ul>
+						  {% endfor %}
+						</div>
+					</div> 	
+				</div>
+			</div>
+			{% include footer.html %}
+		</div>
+		<div style="height:1080px;"></div>
+	</body>
+</html>
+
+

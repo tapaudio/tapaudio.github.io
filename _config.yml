@@ -1,0 +1,32 @@
+title: "BabyKing's Blog"
+
+toc_levels: 2..4
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    line_numbers: true  # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+
+# Google Analytics
+google_analytics: UA-127077562-1            # Format: UA-xxxxxx-xx
+# ga_domain: 
+
+# Gitalk settings
+# comment_gitalk_clientId: ff150298319a020d8df9
+# comment_gitalk_clientSecret: 40e533e2734bc7444e08a2212000c2c6cbac9fcf
+# comment_gitalk_repo: babyking.github.io
+# github_username: babyking
+
+#plugin
+plugins:
+  - jekyll-feed

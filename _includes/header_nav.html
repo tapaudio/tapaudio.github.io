@@ -1,0 +1,15 @@
+<div id="nav">
+	<div class="wrapper">
+		<ul>
+			<li>↳</li>
+			<li id="/"><a href="/">Blog</a></li>
+
+		</ul>
+	</div>
+</div>
+
+<script>
+	var category = location.pathname;
+	document.getElementById(category).style.textDecoration = "underline";
+	document.getElementById(category).style.fontWeight= "bold";
+</script>
