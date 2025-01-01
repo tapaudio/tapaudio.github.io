@@ -1,4 +1,4 @@
-title: "BabyKing's Blog"
+title: "TapAudio"
 
 toc_levels: 2..4
 
@@ -18,14 +18,8 @@ kramdown:
 
 
 # Google Analytics
-google_analytics: UA-127077562-1            # Format: UA-xxxxxx-xx
+#google_analytics:           # Format: UA-xxxxxx-xx
 # ga_domain: 
-
-# Gitalk settings
-# comment_gitalk_clientId: ff150298319a020d8df9
-# comment_gitalk_clientSecret: 40e533e2734bc7444e08a2212000c2c6cbac9fcf
-# comment_gitalk_repo: babyking.github.io
-# github_username: babyking
 
 #plugin
 plugins:
