@@ -26,11 +26,12 @@ permalink: /app/songpitch/zh/
 
 隐私政策:  
 
-https://babyking.github.io/privacy/songpitch/zh/
+[https://babyking.github.io/privacy/songpitch/zh/](https://babyking.github.io/privacy/songpitch/zh/)
 
 最终用户许可协议 (EULA):
 
- https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+ [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+ 
 
 反馈:
 

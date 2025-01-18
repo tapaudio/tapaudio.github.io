@@ -4,7 +4,7 @@ typora-copy-images-to: ../image
 layout: private
 title: SongPitch 
 date: 2024-01-01 15:12
-permalink: /app/songitch/en/
+permalink: /app/songpitch/en/
 ---
 
 ## SongPitch
@@ -37,9 +37,9 @@ About subscription and renewal:
 
 
 Privacy Policy:  
-https://babyking.github.io/privacy/songpitch/zh/
+[https://babyking.github.io/privacy/songpitch/zh/](https://babyking.github.io/privacy/songpitch/zh/)
 End User License Agreement (EULA):
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://babyking.github.io/privacy/songpitch/zh/)
 
 
 feedback:
