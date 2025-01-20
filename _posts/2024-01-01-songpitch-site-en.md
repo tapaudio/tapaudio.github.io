@@ -37,9 +37,9 @@ About subscription and renewal:
 
 
 Privacy Policy:  
-[https://babyking.github.io/privacy/songpitch/zh/](https://babyking.github.io/privacy/songpitch/zh/)
+[https://tapaudio.github.io/privacy/songpitch/zh/](https://tapaudio.github.io/privacy/songpitch/zh/)
 End User License Agreement (EULA):
-[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://babyking.github.io/privacy/songpitch/zh/)
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]([https://babyking.github.io/privacy/songpitch/zh/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/))
 
 
 feedback:
