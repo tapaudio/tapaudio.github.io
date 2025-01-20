@@ -26,7 +26,7 @@ permalink: /app/songpitch/zh/
 
 隐私政策:  
 
-[https://babyking.github.io/privacy/songpitch/zh/](https://babyking.github.io/privacy/songpitch/zh/)
+[https://tapaudio.github.io/privacy/songpitch/zh/](https://tapaudio.github.io/privacy/songpitch/zh/)
 
 最终用户许可协议 (EULA):
 
