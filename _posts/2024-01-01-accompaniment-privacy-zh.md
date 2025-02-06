@@ -4,7 +4,7 @@ typora-copy-images-to: ../image
 layout: private
 title: Accompaniment
 date:  2024-01-01 15:12
-permalink: /privacy/accompanimentv/zh/
+permalink: /privacy/accompaniment/zh/
 ---
 
 ## Accompaniment 隐私政策
