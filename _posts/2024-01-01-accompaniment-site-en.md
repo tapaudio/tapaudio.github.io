@@ -2,20 +2,20 @@
 typora-root-url: ../
 typora-copy-images-to: ../image
 layout: private
-title: Accompaniment 
+title: MyBackingtrack 
 date: 2024-01-01 15:12
 permalink: /app/accompaniment/en/
 ---
 
-## Accompaniment
+## MyBackingtrack
 
 ![accompaniment](/image/accompaniment.png)
 
 
 
-**Accompaniment: Your Ultimate Music Learning Companion**
+**MyBackingtrack: Your Ultimate Music Learning Companion**
 
-Accompaniment is a revolutionary app designed to empower musicians of all levels by providing high-quality, customizable music accompaniments with ease and speed. Whether you're practicing, recording, or performing, Accompaniment is your go-to tool for enhancing your musical journey.
+MyBackingtrack is a revolutionary app designed to empower musicians of all levels by providing high-quality, customizable music accompaniments with ease and speed. Whether you're practicing, recording, or performing, MyBackingtrack is your go-to tool for enhancing your musical journey.
 
 **Key Features:**
 
@@ -28,15 +28,15 @@ Accompaniment is a revolutionary app designed to empower musicians of all levels
 
 **All-in-One Music Solution:**
 
-Accompaniment combines advanced AI technology with user-friendly features to analyze music files or video files deeply. It generates backing tracks by allowing you to freely adjust the volume levels of vocals, drums, bass, piano, and other instruments. Additionally, you can fine-tune the pitch and playback speed to suit your preferences.
+MyBackingtrack combines advanced AI technology with user-friendly features to analyze music files or video files deeply. It generates backing tracks by allowing you to freely adjust the volume levels of vocals, drums, bass, piano, and other instruments. Additionally, you can fine-tune the pitch and playback speed to suit your preferences.
 
-**Why Choose Accompaniment?**
+**Why Choose MyBackingtrack?**
 
 - **Seamless Integration:** Our app integrates accompaniment generation, pitch shifting, and tempo adjustment into one intuitive platform, offering a seamless and efficient user experience.
-- **Enhanced Learning:** By providing precise control over each element of a track, Accompaniment helps you focus on what matters most—improving your musical skills.
-- **One-Stop Service:** From practice to performance, Accompaniment is your all-in-one solution, designed to elevate your music learning and creation process.
+- **Enhanced Learning:** By providing precise control over each element of a track, MyBackingtrack helps you focus on what matters most—improving your musical skills.
+- **One-Stop Service:** From practice to performance, MyBackingtrack is your all-in-one solution, designed to elevate your music learning and creation process.
 
-Experience the future of music practice and performance with Accompaniment—your ultimate assistant in mastering the art of music.
+Experience the future of music practice and performance with MyBackingtrack—your ultimate assistant in mastering the art of music.
 
 
 
