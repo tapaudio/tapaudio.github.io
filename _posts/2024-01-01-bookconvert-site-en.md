@@ -13,8 +13,6 @@ permalink: /app/bookconvert/en/
 
 
 
-
-
 Easily convert your eBooks between almost any major format!
 
 
