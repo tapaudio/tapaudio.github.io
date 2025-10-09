@@ -9,7 +9,7 @@ permalink: /app/audiotools/zh/
 
 ## 音视频工具箱
 
-<img src="/image/Xnip2025-01-18_13-35-42.png" alt="Xnip2025-01-18_13-35-42" style="zoom:50%;" />
+<img src="/image/image-20251009111027207.png" alt="image-20251009111027207" style="zoom:50%;" />
 
 音视频工具箱
 
@@ -23,7 +23,7 @@ permalink: /app/audiotools/zh/
 最终用户许可协议 (EULA):
 
  [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
- 
+
 
 反馈:
 

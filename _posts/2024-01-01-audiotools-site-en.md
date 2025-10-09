@@ -9,7 +9,7 @@ permalink: /app/audiotools/en/
 
 ## AudioTools
 
-<img src="/image/Xnip2025-01-18_13-35-42.png" alt="Xnip2025-01-18_13-35-42" style="zoom:50%;" />
+<img src="/image/image-20251009111049684.png" alt="image-20251009111049684" style="zoom:50%;" />
 
 
 
