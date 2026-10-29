@@ -19,3 +19,16 @@ Key Features:
 	•	File Sharing: Import books and export audio files with ease.
 
 Whether you are commuting, exercising, or resting your eyes, AudioShelf lets your books speak for themselves.
+
+
+
+
+Privacy Policy:  
+[https://tapaudio.github.io/privacy/audioshelf/en/](https://tapaudio.github.io/privacy/audioshelf/en/)
+End User License Agreement (EULA):
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+
+feedback:
+
+If you have any questions, please contact us by email: tapaudio@qq.com

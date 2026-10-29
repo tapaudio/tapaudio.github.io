@@ -19,3 +19,19 @@ permalink: /app/audioshelf/zh/
 	•	文件共享：方便地导入书籍、导出音频文件。
 
 无论是通勤路上、运动途中，还是想让眼睛休息的时候，有声书房都能让书本自己「读」给你听。
+
+
+
+
+隐私政策:  
+
+[https://tapaudio.github.io/privacy/audioshelf/zh/](https://tapaudio.github.io/privacy/audioshelf/zh/)
+
+最终用户许可协议 (EULA):
+
+ [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+ 
+
+反馈:
+
+任何问题,请邮件联系我们  tapaudio@qq.com
