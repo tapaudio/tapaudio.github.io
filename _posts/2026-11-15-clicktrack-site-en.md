@@ -3,7 +3,7 @@ typora-root-url: ../
 typora-copy-images-to: ../image
 layout: private
 title: ClickTrack
-date: 2026-11-15 04:30
+date: 2026-11-14 12:00
 permalink: /app/clicktrack/en/
 ---
 
