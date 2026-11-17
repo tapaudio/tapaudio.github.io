@@ -3,7 +3,7 @@ typora-root-url: ../
 typora-copy-images-to: ../image
 layout: private
 title: DeChordPro
-date: 2026-11-17 12:00
+date: 2026-11-17 06:00
 permalink: /privacy/dechordpro/en/
 ---
 
